@@ -3,7 +3,7 @@
 ### Two years development experience.
 ### Languages I have used:
 - C#
-- PHP
+- PHP/Laravel
 - HTML
 - CSS
 - SASS
@@ -18,6 +18,13 @@
 - Running
 - Exploring nature
 - Building small projects
+
+### I'm passionate about:
+- Open source software
+- Esports and competitive gaming
+- Hip-hop & jazz
+- Science fiction and dystopian visions
+- Emerging technologies
 
 <!--
 **20rp/20rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
