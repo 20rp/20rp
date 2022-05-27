@@ -25,6 +25,12 @@
 - Hip-hop & jazz
 - Science fiction and dystopian visions
 - Emerging technologies
+- Blockchain technologies
+
+---
+## Time Spent Coding
+
+[![wakatime](https://wakatime.com/badge/user/4b403875-2abb-4659-950b-05b75013fac7.svg)](https://wakatime.com/@4b403875-2abb-4659-950b-05b75013fac7)
 
 <!--
 **20rp/20rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
