@@ -22,15 +22,14 @@
 ### I'm passionate about:
 - Open source software
 - Esports and competitive gaming
-- Hip-hop & jazz
+- Hip-hop & funk
 - Science fiction and dystopian visions
 - Emerging technologies
 - Blockchain technologies
 
 ---
-## Overall Development Time
 
-[![wakatime](https://wakatime.com/badge/user/4b403875-2abb-4659-950b-05b75013fac7.svg)](https://wakatime.com/@4b403875-2abb-4659-950b-05b75013fac7)
+[![wakatime](https://wakatime.com/badge/user/4b403875-2abb-4659-950b-05b75013fac7.svg)](https://wakatime.com/@4b403875-2abb-4659-950b-05b75013fac7?style=plastic)
 
 <!--
 **20rp/20rp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
