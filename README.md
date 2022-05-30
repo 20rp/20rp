@@ -1,6 +1,6 @@
 # I'm Arlo ☄️
-**Recent graduate working at The Eastern Institute of Technology as a Web Developer.**
-**Two years development experience.**
+**Recent graduate working at The Eastern Institute of Technology as a Web Developer.**  
+**Two years development experience.**  
 **Languages I have used:**
 - C#
 - PHP/Laravel
