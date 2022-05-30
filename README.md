@@ -5,8 +5,7 @@
 - C#
 - PHP/Laravel
 - HTML
-- CSS
-- SASS
+- CSS/SASS/Bootstrap
 - JavaScript/jQuery
 - Python
 - Bash
