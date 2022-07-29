@@ -2,9 +2,10 @@
 **Recent graduate working at The Eastern Institute of Technology as a Web Developer.**  
 **Two years development experience.**  
 **Languages I have used:**
+- NodeJS
 - C#
 - PHP/Laravel
-- HTML
+- HTML & PUG Templating Engine
 - CSS/SASS/Bootstrap
 - JavaScript/jQuery
 - Python
@@ -17,6 +18,7 @@
 - Running
 - Exploring nature
 - Building small projects
+- Digital Art
 
 ### I'm passionate about:
 - Open source software
