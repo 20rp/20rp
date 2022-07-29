@@ -3,7 +3,7 @@
 **Two years development experience.**  
 **Languages I have used:**
 - NodeJS
-- C#
+- C# & ASP.NET/.NET CORE
 - PHP/Laravel
 - HTML & PUG Templating Engine
 - CSS/SASS/Bootstrap
