@@ -2,12 +2,11 @@
 **Recent graduate working at The Eastern Institute of Technology as a Web Developer.**  
 **Two years development experience.**  
 **Languages I have used:**
-- NodeJS
-- C# & ASP.NET/.NET CORE
+- JavaScript/NodeJS/jQuery
+- C# & ASP .NET CORE
 - PHP/Laravel
-- HTML & PUG Templating Engine
+- HTML/PUG
 - CSS/SASS/Bootstrap
-- JavaScript/jQuery
 - Python
 - Bash
 - PowerShell
