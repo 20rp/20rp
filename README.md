@@ -4,7 +4,7 @@
 **Languages I have used:**
 - JavaScript/NodeJS/jQuery
 - C# & ASP .NET CORE
-- PHP/Laravel
+- Express
 - HTML/PUG
 - CSS/SASS/Bootstrap
 - Python
@@ -17,10 +17,11 @@
 - Running
 - Exploring nature
 - Building small projects
+- Game Design
 - Digital Art
 
 ### I'm passionate about:
-- Open source software
+- Open source software and Technology
 - Esports and competitive gaming
 - Hip-hop & funk
 - Science fiction and dystopian visions
