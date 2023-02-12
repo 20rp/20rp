@@ -23,7 +23,7 @@
 ### I'm passionate about:
 - Open source software and Technology
 - Esports and competitive gaming
-- Hip-hop & funk
+- Hip-hop, phonk, lofi
 - Science fiction and dystopian visions
 - Emerging technologies
 - Blockchain technologies
