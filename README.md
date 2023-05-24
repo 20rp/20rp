@@ -10,6 +10,7 @@
 - Python
 - Bash
 - PowerShell
+- SQL/MySQL/Postgres
 ---
 ### In my free time I enjoy:
 - Music production
