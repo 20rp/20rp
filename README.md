@@ -3,11 +3,11 @@
 **Two years development experience.**  
 **Languages I have used:**
 - JavaScript/NodeJS/jQuery
-- C# & ASP .NET CORE
 - Express
 - HTML/PUG
 - CSS/SASS/Bootstrap
 - Python
+- C# & ASP .NET CORE
 - Bash
 - PowerShell
 - SQL/MySQL/Postgres
