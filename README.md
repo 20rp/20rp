@@ -1,12 +1,13 @@
 # I'm Arlo ☄️
-**Recent graduate working at The Eastern Institute of Technology as a Web Developer.**  
-**Two years development experience.**  
+**BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
+**Three years development experience.**  
 **Languages I have used:**
-- JavaScript/NodeJS/jQuery
+- JavaScript
+- TypeScript
+- NodeJS
 - Express
 - HTML/PUG
 - CSS/SASS/Bootstrap
-- Python
 - C# & ASP .NET CORE
 - Bash
 - PowerShell
