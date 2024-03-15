@@ -1,6 +1,6 @@
 # I'm Arlo ☄️
 
-<a href="linkedin.com/in/arlo-wotherspoon">
+<a href="https://linkedin.com/in/arlo-wotherspoon">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
 
