@@ -1,7 +1,10 @@
 # I'm Arlo ☄️
+
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
 **Three years development experience.**  
+![Static Badge](https://img.shields.io/badge/linkedin.com%2Fin%2Farlo-wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn)
 **Languages I have used:**
+
 - JavaScript
 - TypeScript
 - NodeJS
@@ -12,8 +15,11 @@
 - Bash
 - PowerShell
 - SQL/MySQL/Postgres
+
 ---
+
 ### In my free time I enjoy:
+
 - Music production
 - Reading
 - Running
@@ -23,6 +29,7 @@
 - Digital Art
 
 ### I'm passionate about:
+
 - Open source software and Technology
 - Esports and competitive gaming
 - Hip-hop, phonk, lofi
