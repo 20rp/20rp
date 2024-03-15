@@ -6,7 +6,7 @@
 
 ---
 
-** 🛠️: Languages and Technologies: **
+**🛠️: Languages and Technologies:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" />
