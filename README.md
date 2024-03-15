@@ -5,8 +5,12 @@
 
 ## About me
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
-**Three years development experience.**  
+**Three years development experience.** 
+
 **🛠️: Tools and Technologies:**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+</div>
 
 - JavaScript
 - TypeScript
