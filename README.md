@@ -1,9 +1,8 @@
 # Hi, I'm Arlo ☄️
+---
 <a href="https://linkedin.com/in/arlo-wotherspoon">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
-
----
 ## About me
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
 **Three years development experience.**  
