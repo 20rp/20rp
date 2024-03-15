@@ -25,13 +25,13 @@
 
 ### In my free time I enjoy:
 
-- Music production
-- Reading
-- Running
-- Exploring nature
-- Building small projects
-- Game Design
-- Digital Art
+- 🎵 Music production
+- 📙 Reading
+- 🏃‍♂️ Running
+- 🌲 Exploring nature
+- 🧰 Building small projects
+- 🎮 Game Design
+- 🖌️ Digital Art
 
 ### I'm passionate about:
 
