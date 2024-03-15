@@ -6,7 +6,7 @@
 ## About me
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
 **Three years development experience.**  
-**Languages I have used:**
+**🛠️: Tools and Technologies:**
 
 - JavaScript
 - TypeScript
