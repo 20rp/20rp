@@ -15,7 +15,7 @@
 - PowerShell
 - SQL/MySQL/Postgres
 
-![Static Badge](https://img.shields.io/badge/linkedin.com%2Fin%2Farlo-wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn&link=linkedin.com%2Fin%2Farlo-wotherspoon)
+![Static Badge](https://img.shields.io/badge/Arlo-Wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn&link=linkedin.com%2Fin%2Farlo-wotherspoon)
 
 ### In my free time I enjoy:
 
