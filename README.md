@@ -5,7 +5,7 @@
 
 ## About me
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
-**Three years development experience.** 
+**Three years development experience. I am passionate about making web technologies that are cohesive and easy to use.** 
 
 🛠️: Tools and Technologies:
 <div>
