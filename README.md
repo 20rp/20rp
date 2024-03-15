@@ -7,7 +7,7 @@
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
 **Three years development experience.** 
 
-**🛠️: Tools and Technologies:**
+🛠️: Tools and Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" />
@@ -25,13 +25,13 @@
 
 ### In my free time I enjoy:
 
-- 🎵 Music production
-- 📙 Reading
-- 🏃‍♂️ Running
-- 🌲 Exploring nature
-- 🧰 Building small projects
-- 🎮 Game Design
-- 🖌️ Digital Art
+🎵 Music production
+📙 Reading
+🏃‍♂️ Running
+🌲 Exploring nature
+🧰 Building small projects
+🎮 Game Design
+🖌️ Digital Art
 
 ### I'm passionate about:
 
