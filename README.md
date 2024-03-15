@@ -14,8 +14,10 @@
 - Bash
 - PowerShell
 - SQL/MySQL/Postgres
-  
-<img src="https://img.shields.io/badge/Arlo-Wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn&link=linkedin.com%2Fin%2Farlo-wotherspoon">
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+</a>
 
 ### In my free time I enjoy:
 
