@@ -4,9 +4,11 @@
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
 **Three years development experience. I am passionate about creating modern web software that is cohesive and easy to use.** 
 
-<a align="center" href="https://linkedin.com/in/arlo-wotherspoon">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
+<div  align="center">
+  <a href="https://linkedin.com/in/arlo-wotherspoon">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+</div>
 
 ---
 
