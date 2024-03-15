@@ -2,7 +2,6 @@
 
 **BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
 **Three years development experience.**  
-![Static Badge](https://img.shields.io/badge/linkedin.com%2Fin%2Farlo-wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn)
 **Languages I have used:**
 
 - JavaScript
@@ -16,7 +15,7 @@
 - PowerShell
 - SQL/MySQL/Postgres
 
----
+## ![Static Badge](https://img.shields.io/badge/linkedin.com%2Fin%2Farlo-wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn)
 
 ### In my free time I enjoy:
 
