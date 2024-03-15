@@ -15,9 +15,7 @@
 - PowerShell
 - SQL/MySQL/Postgres
 
-<a href="https://linkedin.com">
-  ![Static Badge](https://img.shields.io/badge/Arlo-Wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn&link=linkedin.com%2Fin%2Farlo-wotherspoon)
-</a>
+[](![Static Badge](https://img.shields.io/badge/Arlo-Wotherspoon?style=social&logo=linkedin&logoColor=blue&label=LinkedIn&link=linkedin.com%2Fin%2Farlo-wotherspoon))
 
 ### In my free time I enjoy:
 
