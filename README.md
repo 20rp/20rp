@@ -44,7 +44,7 @@
 
 - Open source software and Technology
 - Esports and competitive gaming
-- Hip-hop, phonk, lofi
+- Anime and gaming
 - Science fiction and dystopian visions
 - Emerging technologies
 - Blockchain technologies
