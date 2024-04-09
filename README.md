@@ -40,7 +40,7 @@
 🎮 Game Design
 🖌️ Digital Art
 
-### I'm passionate about:
+### Interests:
 
 - Open source software and Technology
 - Esports and competitive gaming
