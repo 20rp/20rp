@@ -2,7 +2,7 @@
 
 ### About me
 **Full Stack Software Engineer with five years of professional working experience.**
-**BCS graduate. Full stack developer working for the Eastern Institute of Technology, New Zealand.**  
+**BCS graduate. Currently the primary Web Developer for the Eastern Institute of Technology, New Zealand.**  
 **Four and a half years development experience. I am passionate about creating modern web software that is cohesive and easy to use.** 
 
 <div  align="center">
