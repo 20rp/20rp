@@ -5,7 +5,7 @@
 
 **BCS graduate. Currently the primary Web Developer for the Eastern Institute of Technology, New Zealand.**  
 
-**Four and a half years development experience. I am passionate about creating modern web software that is cohesive and easy to use.** 
+**Passionate about creating modern web software that is cohesive and easy to use.** 
 
 <div  align="center">
   <a href="https://linkedin.com/in/arlo-wotherspoon">
