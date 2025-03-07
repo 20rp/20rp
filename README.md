@@ -1,11 +1,9 @@
 # Hi, I'm Arlo ☄️
 
 ### About me
-**Full Stack Software Engineer with five years of professional working experience.**
+**Seasoned Full Stack Software Engineer with 5+ years of professional experience. Currently serving as the primary Web Developer for the Eastern Institute of Technology, New Zealand.**
 
-**BCS graduate. Currently the primary Web Developer for the Eastern Institute of Technology, New Zealand.**  
-
-**Passionate about creating modern web software that is cohesive and easy to use.** 
+**BCS graduate specializing in creating intuitive, cohesive web applications with modern technologies. Committed to delivering seamless user experiences through clean, efficient code.**
 
 <div  align="center">
   <a href="https://linkedin.com/in/arlo-wotherspoon">
