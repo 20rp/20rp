@@ -1,4 +1,4 @@
-# Hi, I'm Arlo ☄️
+# Hi, I'm Arlo 💻
 
 ### About me
 **Seasoned Full Stack Software Engineer with 5+ years of professional experience. Currently serving as the primary Web Developer for the Eastern Institute of Technology, New Zealand.**
