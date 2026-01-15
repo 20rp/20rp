@@ -10,7 +10,7 @@
 
 I am a Full Stack Engineer driven by the challenge of reversing the 'Digital Trust' decay. I am passionate about leveraging blockchain infrastructure—not for currency, but as a foundation for transparency, data integrity, and immutable ledgers in modern web applications.
 
-Currently leading web development at EIT, where I specialise in modernising mission-critical legacy systems. I recently re-architected the institutions Online Enrolment platform—implementing robust server-side validation and legal compliance modules to streamline data integrity for 4,000+ annual applicants. 
+Currently leading web development at Eastern Institute of Technology (EIT), where I specialise in modernising mission-critical legacy systems. I recently re-architected the institutions Online Enrolment platform—implementing robust server-side validation and legal compliance modules to streamline data integrity for 4,000+ annual applicants. 
 
 <br>
 
