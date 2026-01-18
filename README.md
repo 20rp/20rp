@@ -35,7 +35,7 @@ Currently leading web development at Eastern Institute of Technology (EIT), wher
 
 <br>
 
-- **Languages**: TypeScript, JavaScript (ES6+), C# (.NET 4.7 & Core)
+- **Languages**: TypeScript, JavaScript (ES6+), C# (.NET 4.7+ & Core)
 - **Frontend**: React, Next.js, HTML5/CSS3
 - **Backend & DB**: Node.js, MS SQL Server, SQLite, RESTful APIs
 - **DevOps & Tools**: Docker, GitHub Actions, Azure, Git, PowerShell
