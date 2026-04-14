@@ -1,5 +1,3 @@
-# Hi, I'm Arlo 👋
-
 **Full Stack Software Engineer**
 <div  align="center">
   <a href="https://linkedin.com/in/arlo-wotherspoon">
