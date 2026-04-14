@@ -1,19 +1,6 @@
 # Hi, I'm Arlo 👋
 
-**Full Stack Software Engineer | .NET & TypeScript Specialist** *Currently based in Napier, moving to Christchurch Mid-2026*
-
-**BCS graduate, 5+ years of commercial experience delivering mission-critical enterprise solutions.**
-
----
-
-**Mission: Rebuilding Digital Trust**
-
-I am a Full Stack Engineer driven by the challenge of reversing the 'Digital Trust' decay. I am passionate about leveraging blockchain infrastructure—not for currency, but as a foundation for transparency, data integrity, and immutable ledgers in modern web applications.
-
-Currently leading web development at Eastern Institute of Technology (EIT), where I specialise in modernising mission-critical legacy systems. I recently re-architected the institutions Online Enrolment platform—implementing robust server-side validation and legal compliance modules to streamline data integrity for 4,000+ annual applicants. 
-
-<br>
-
+**Full Stack Software Engineer**
 <div  align="center">
   <a href="https://linkedin.com/in/arlo-wotherspoon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
