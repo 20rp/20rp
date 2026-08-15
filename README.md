@@ -1,4 +1,5 @@
 **Full Stack Software Engineer**
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 <div  align="center">
   <a href="https://linkedin.com/in/arlo-wotherspoon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
